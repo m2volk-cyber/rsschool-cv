@@ -2,7 +2,7 @@
 ***
 ## About me:
 I am 29 years old, I live in Minsk.
-I work in an orchestra. I play the trumpet. I study JS/FE.
+I work in an orchestra. I play the trumpet. I study JS/FE
 ***
 ## My Contacks:
 * **My phone**: +375(44)784-01-71
