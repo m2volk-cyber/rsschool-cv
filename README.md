@@ -1,1 +1,1 @@
-https://m2volk-cyber.github.io/rsschool-cv/
+https://m2volk-cyber.github.io/rsschool-cv/cv
